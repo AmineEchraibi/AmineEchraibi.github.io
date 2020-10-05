@@ -1,7 +1,8 @@
 ---
 title: "About"
 permalink: /about/
-author_profile: true
+header:
+  image: "images/head.jpeg"
 ---
 
 Welcome to my github page.

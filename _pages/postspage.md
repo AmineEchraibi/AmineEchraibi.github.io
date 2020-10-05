@@ -3,6 +3,8 @@ layout: archive
 permalink: /posts-page/
 title: "Various posts related to my research"
 author_profile: true
+header:
+  image: "/images/head.jpeg"
 ---
 
 {% include base_path %}
