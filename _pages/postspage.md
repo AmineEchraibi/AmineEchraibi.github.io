@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /postspage/
+permalink: /posts-page/
 title: "Various posts related to my research"
 author_profile: true
 header:
