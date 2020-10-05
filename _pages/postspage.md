@@ -3,7 +3,6 @@ layout: archive
 permalink: /posts-page/
 title: "Various posts related to my research"
 author_profile: true
-
 ---
 
 {% include base_path %}
@@ -15,4 +14,4 @@ author_profile: true
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
-{% endfor %} 
+{% endfor %}
