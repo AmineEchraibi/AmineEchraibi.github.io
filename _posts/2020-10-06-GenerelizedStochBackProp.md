@@ -1,4 +1,4 @@
----
+[\---
 title: "Generalized Stochastic Backpropagation: NeuralNets & PGMs"
 data: 2020-10-06
 tags: [Stochastic Backpropagation, probabilistic graphical models]
@@ -7,6 +7,6 @@ header:
 mathjax: "true"
 ---
 
-# intro
+# introduction
 
-$$ L(\phi) = \mathbb{E}_{\mathbb{z} \sim p_\theta} \left[ f(\mathbb{z}) \right] $$
+$$ \mathcal{L}(\theta) = \mathbb{E}_{\mathbb{z} \sim p_\theta} \left[ f(\mathbb{z}) \right] $$\]
