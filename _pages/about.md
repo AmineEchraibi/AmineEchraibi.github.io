@@ -5,7 +5,7 @@ permalink: /about/
 
 # 👋 Hi, I'm Amine Echraibi
 
-🎯 **Lead Machine Learning Engineer | Researcher | MLOps Specialist**
+🎯 **Lead Machine Learning Engineer | Researcher | AWS MLOps Specialist**
 
 Welcome to my GitHub!  
 I’m a machine learning researcher and engineer with over **7 years of experience** leading ML projects from **research to production** — designing training pipelines, deploying models at scale, and implementing modern **MLOps** practices in cloud environments.
