@@ -1,3 +1,3 @@
 # Personal Website
 
-Check out AmineEchraibi.github.io if you're interested in some theoretical machine learning posts.
+please visit https://AmineEchraibi.github.io .
