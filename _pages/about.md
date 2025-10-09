@@ -1,20 +1,15 @@
 ---
 title: "About"
 permalink: /about/
+author_profile: true
 ---
 
 # 👋 Hi, I'm Amine Echraibi
 
-🎯 **Lead Machine Learning Engineer | Researcher | AWS MLOps Specialist**
+## Lead Machine Learning Engineer | Researcher | AWS MLOps Specialist
 
 Welcome to my GitHub!  
-I’m a machine learning researcher and engineer with over **7 years of experience** leading ML projects from **research to production** — designing training pipelines, deploying models at scale, and implementing modern **MLOps** practices in cloud environments.
-
----
-
-## 🚀 About Me
-
-- 🔧 Currently **Staff Machine Engineer - Team Lead** — building scalable data and training pipelines and ML orchestration systems on **AWS Sagemaker** and **Airflow**.  
+I’m a machine learning researcher and engineer with over **8 years of experience** leading ML projects from **research to production** — designing training pipelines, deploying models at scale, and implementing modern **MLOps** practices in cloud environments.
 
 ---
 
@@ -33,7 +28,7 @@ I’m a machine learning researcher and engineer with over **7 years of experien
 - Pandas • PySpark • SQL • Pydantic / Pandera 
 
 **Best practices**
-- Testing (pytest) • Linting / fromatting (pylint, mypy) • Packaging (Codeartifact, poetry)
+- Testing (pytest) • Linting / fromatting (pylint, mypy) • Packaging (AWS Codeartifact, poetry)
 
 ---
 
@@ -74,7 +69,6 @@ I’m a machine learning researcher and engineer with over **7 years of experien
 
 - 🌐 [LinkedIn](#)  
 - 🧠 [Google Scholar](https://scholar.google.com/citations?user=fmL36oAAAAAJ&hl=fr)  
-- ✉️ [Email](#)  
 - 📺 [YouTube (MLOps Education)](https://www.youtube.com/@MLOpswithAM)  
 
 ---
