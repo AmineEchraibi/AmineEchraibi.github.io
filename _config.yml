@@ -95,28 +95,17 @@ analytics:
 author:
   name             : "Amine Echraibi"
   avatar           : "/images/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Mathematics enthousiast"
-  location         : "Brest, France"
+  bio              : "ML Engineer/Researcher"
+  location         : "Paris, France"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:amine.echraibi@imt-atlantique.fr"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Amine_Echraibi"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "mailto:echraibi.amine@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AmineEchraibi"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+
 
 # Site Footer
 footer:
