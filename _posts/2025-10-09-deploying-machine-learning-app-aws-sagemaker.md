@@ -154,3 +154,7 @@ print(response.json())
 ## 📚 Conclusion
 
 By combining Terraform, FastAPI, and SageMaker, you get a modern, infrastructure-as-code deployment stack that’s scalable, reproducible, and production-ready. Whether you’re serving a deep learning model or a lightweight ML classifier, this approach provides a clean, automated pathway from development to deployment.
+
+[Medium: Deploying a Machine Learning FastAPI app on Amazon Sagemaker Endpoint](https://medium.com/@echraibi.amine/deploying-a-fastapi-app-on-amazon-sagemaker-using-terraform-design-and-architecture-explained-13be5b3ed15b)
+
+[Youtube: Deploying a Machine Learning FastAPI app on Amazon Sagemaker Endpoint](https://www.youtube.com/watch?v=KFqehCAMaLQ)
